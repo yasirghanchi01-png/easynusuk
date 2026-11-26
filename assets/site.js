@@ -311,7 +311,11 @@
     {code:"NG-5cNV5FDt", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
     {code:"NG-k40iUC8G", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
     {code:"NG-qxDfDpr6", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
-    {code:"NG-aG4wnIEB", name:"EasyNusuk user", country:"Egypt", countryCode:"EG", live:true}
+    {code:"NG-aG4wnIEB", name:"EasyNusuk user", country:"Egypt", countryCode:"EG", live:true},
+    {code:"NG-1EDleCI6", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-nHjPZTCL", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-gxynG1A1", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-nY9vfkAQ", name:"EasyNusuk user", country:"Other", countryCode:"", live:true}
   ];
   var usedToday = 0, DAILY_LIMIT = 50, activeFilter = "All";
   function esc(s){ return String(s).replace(/[&<>"']/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); }

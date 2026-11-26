@@ -304,7 +304,14 @@
     {code:"NG-Z79R1PTx", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
     {code:"NG-IGTEdlvS", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
     {code:"NG-5qfWtX6D", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
-    {code:"NG-S1VQ17HL", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true}
+    {code:"NG-S1VQ17HL", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true},
+    {code:"NG-5gH5KCD2", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-uLz7c28M", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-YZrdt3ol", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-5cNV5FDt", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-k40iUC8G", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-qxDfDpr6", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-aG4wnIEB", name:"EasyNusuk user", country:"Egypt", countryCode:"EG", live:true}
   ];
   var usedToday = 0, DAILY_LIMIT = 50, activeFilter = "All";
   function esc(s){ return String(s).replace(/[&<>"']/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); }

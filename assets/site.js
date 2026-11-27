@@ -315,7 +315,20 @@
     {code:"NG-1EDleCI6", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
     {code:"NG-nHjPZTCL", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
     {code:"NG-gxynG1A1", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
-    {code:"NG-nY9vfkAQ", name:"EasyNusuk user", country:"Other", countryCode:"", live:true}
+    {code:"NG-nY9vfkAQ", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-yZ22Efm3", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-wfM1WKIW", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-rDGkLc8A", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-XqhEJWi7", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-fpuKOLwJ", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-uJBWIpFF", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-9571Mi3n", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-ZdFfDp04", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-CPKNxARx", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-XT90Fe2P", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-sXpIXqSG", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-l6AF3S6e", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-qic2aZAt", name:"EasyNusuk user", country:"Other", countryCode:"", live:true}
   ];
   var usedToday = 0, DAILY_LIMIT = 50, activeFilter = "All";
   function esc(s){ return String(s).replace(/[&<>"']/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); }

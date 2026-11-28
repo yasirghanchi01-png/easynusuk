@@ -331,7 +331,12 @@
     {code:"NG-qic2aZAt", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
     {code:"NG-MwvSHxxh", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
     {code:"NG-PXPnaJk6", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true},
-    {code:"NG-JBFe0Xik", name:"EasyNusuk user", country:"Other", countryCode:"", live:true}
+    {code:"NG-JBFe0Xik", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-Ef7G7i95", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true},
+    {code:"NG-CzrR0kbn", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-gKmyzBEw", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true},
+    {code:"NG-HznZZdm1", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true},
+    {code:"NG-Y6IWVlHJ", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true}
   ];
   var usedToday = 0, DAILY_LIMIT = 50, activeFilter = "All";
   function esc(s){ return String(s).replace(/[&<>"']/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); }

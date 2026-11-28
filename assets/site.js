@@ -336,7 +336,16 @@
     {code:"NG-CzrR0kbn", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
     {code:"NG-gKmyzBEw", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true},
     {code:"NG-HznZZdm1", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true},
-    {code:"NG-Y6IWVlHJ", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true}
+    {code:"NG-Y6IWVlHJ", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true},
+    {code:"NG-kjufLxmP", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-GZpwSmwJ", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-l01t29ky", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-OTyQoARv", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-oFsvac9P", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-QAqXJUgt", name:"EasyNusuk user", country:"Other", countryCode:"", live:true},
+    {code:"NG-NTFKyhwv", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true},
+    {code:"NG-Sa4iH2da", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true},
+    {code:"NG-3yhD7KSb", name:"EasyNusuk user", country:"Pakistan", countryCode:"PK", live:true}
   ];
   var usedToday = 0, DAILY_LIMIT = 50, activeFilter = "All";
   function esc(s){ return String(s).replace(/[&<>"']/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); }
